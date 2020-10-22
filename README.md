@@ -11,7 +11,7 @@
 <a href="mailto:tamagusko@gmail.com/">E-mail</a>
 </p>
 
-I'm a civil engineer/data analyst. I'm from Brazil, living in Portugal, and currently doing a Ph.D. at the University of Coimbra.
+I'm a civil engineer/data analyst. Currently doing a Ph.D. at the University of Coimbra. 
 
 > Enthusiast of AI, programming, and active mobility.
 
