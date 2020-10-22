@@ -15,7 +15,7 @@
 
 My name is **Tiago Tamagusko**, and I'm a civil engineer/data scientist. Ph.D. student in Transport Systems at the University of Coimbra. Member of the Junior Enterprise for Science and Technology (JEST-UC).
 
-> Enthusiast of AI, programming, active mobility, and Tennis.
+> Enthusiast of AI, programming, active mobility, and tennis.
 
 ### ⚡ Domains:
 - Road Pavements
