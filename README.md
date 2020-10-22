@@ -8,12 +8,14 @@
 •
 <a href="https://www.linkedin.com/in/tamagusko/">Linkedin</a>
 •
-<a href="mailto:tamagusko@gmail.com/">E-mail</a>
+<a href="https://medium.com/@tamagusko/">Medium</a>
+ •
+<a href="mailto:tamagusko@gmail.com/">E-mail</a> 
 </p>
 
 My name is **Tiago Tamagusko**, and I'm a civil engineer/data scientist. Ph.D. student in Transport Systems at the University of Coimbra. Member of the Junior Enterprise for Science and Technology (JEST-UC).
 
-> Enthusiast of AI, programming, and active mobility.
+> Enthusiast of AI, programming, active mobility, and Tennis.
 
 ### ⚡ Domains:
 - Road Pavements
