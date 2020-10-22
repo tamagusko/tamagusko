@@ -24,7 +24,7 @@ My name is **Tiago Tamagusko**, and I'm a civil engineer/data scientist. Ph.D. s
 - Data Analysis
 - Python Programming
 
-- Thanks for visiting. Enjoy it!! o/
+Thanks for visiting. Enjoy it!! o/
  
 <!--
 **tamagusko/tamagusko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
