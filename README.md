@@ -15,7 +15,7 @@ My name is **Tiago Tamagusko**, and I'm a civil engineer/data scientist. Current
 
 > Enthusiast of AI, programming, and active mobility.
 
-## ⚡ Domains:
+### ⚡ Domains:
 - Road Pavements
 - Urban Mobility
 - Machine Learning
