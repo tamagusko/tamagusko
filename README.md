@@ -1,6 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=tamagusko.tamagusko)
 
-<h3 align="center"> 👋 Hello, World! I'm Tiago Tamagusko</h3>
+<h3 align="center"> 👋 Hello, World!</h3>
 
 <!-- Transform in badges in the future-->
 <p align="center">
@@ -11,7 +11,7 @@
 <a href="mailto:tamagusko@gmail.com/">E-mail</a>
 </p>
 
-I'm a civil engineer/data analyst. Currently doing a Ph.D. at the University of Coimbra. 
+My name is **Tiago Tamagusko**, and I'm a civil engineer/data scientist. Currently doing a Ph.D. in Transport Systems at the University of Coimbra. Member of the Junior Enterprise for Science and Technology (JEST-UC).
 
 > Enthusiast of AI, programming, and active mobility.
 
