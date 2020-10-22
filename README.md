@@ -37,7 +37,7 @@
 - Data Analysis
 - Python Programming
 
-Thanks for visiting. Enjoy it!! o/
+Thanks for visiting. Enjoy it! o/
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tamagusko.tamagusko)
  
