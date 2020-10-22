@@ -11,7 +11,7 @@
 <a href="mailto:tamagusko@gmail.com/">E-mail</a>
 </p>
 
-My name is **Tiago Tamagusko**, and I'm a civil engineer/data scientist. Currently doing a Ph.D. in Transport Systems at the University of Coimbra. Member of the Junior Enterprise for Science and Technology (JEST-UC).
+My name is **Tiago Tamagusko**, and I'm a civil engineer/data scientist. Ph.D. student in Transport Systems at the University of Coimbra. Member of the Junior Enterprise for Science and Technology (JEST-UC).
 
 > Enthusiast of AI, programming, and active mobility.
 
