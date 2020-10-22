@@ -4,6 +4,7 @@
 
 <!-- Transform in badges in the future-->
 <p align="center">
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tamagusko@gmail.com)](mailto:tamagusko@gmail.com)
 <a href="https://tamagusko.github.io">CV</a> 
 •
 <a href="https://www.linkedin.com/in/tamagusko/">Linkedin</a>
@@ -24,6 +25,8 @@ My name is **Tiago Tamagusko**, and I'm a civil engineer/data scientist. Ph.D. s
 - Data Analysis
 - Python Programming
 
+- Thanks for visiting. Enjoy it!! o/
+ 
 <!--
 **tamagusko/tamagusko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
