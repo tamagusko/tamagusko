@@ -28,7 +28,7 @@
   Ph.D. student in Transport Systems at the University of Coimbra. Member of the Junior Enterprise for Science and Technology (JEST-UC).
 </p>
 
-> Enthusiast of AI, programming, active mobility, and tennis.
+> Enthusiast of ML, programming, active mobility, and tennis.
 
 ### ⚡ Domains:
 - Road Pavements
