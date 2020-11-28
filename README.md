@@ -24,13 +24,6 @@
 
 > Enthusiast of ML, programming, active mobility, and tennis.
 
-### ⚡ Domains:
-- Road Pavements
-- Urban Mobility
-- Machine Learning
-- Data Analysis
-- Python Programming
-
 Thanks for visiting. Enjoy it! o/
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tamagusko.tamagusko)
