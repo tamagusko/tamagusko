@@ -19,7 +19,7 @@
 
 
 <p align='center'>
-  Ph.D. student in Transport Systems at the University of Coimbra. Member of the Junior Enterprise for Science and Technology (JEST-UC).
+  Ph.D. student in Transport Systems @ University of Coimbra. Member of the Junior Enterprise for Science and Technology (JEST-UC).
 </p>
 
 > Enthusiast of ML, programming, active mobility, and tennis.
