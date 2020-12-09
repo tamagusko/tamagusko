@@ -1,6 +1,6 @@
-<h1 align='center'>
+<h2 align='center'>
   Hello, World! I'm Tiago Tamagusko 👨‍💻
-</h1>
+</h2>
 
 <p align='center'>
   
