@@ -14,7 +14,7 @@
 </p>
 
 <p align='center'>
-  Civil Engineer & Data Analyst
+  Civil Engineer & Data Scientist
 </p>
 
 
