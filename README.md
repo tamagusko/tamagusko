@@ -14,7 +14,7 @@
 </p>
 
 <p align='center'>
-  Civil Engineer & Data Scientist
+  Transportation Specialist & Data Scientist
 </p>
 
 
@@ -22,7 +22,7 @@
   Ph.D. Candidate in Transport Systems @ University of Coimbra.
 </p>
 
-> Enthusiast of ML, programming, active mobility, and tennis.
+> Enthusiast of machine learning, computer vision, programming, active mobility, and tennis.
 
 Thanks for visiting. Enjoy it! o/
 
