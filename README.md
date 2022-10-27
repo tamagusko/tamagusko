@@ -22,7 +22,7 @@
   Ph.D. Candidate in Transport Systems @ University of Coimbra.
 </p>
 
-> Enthusiast of machine learning, computer vision, programming, active mobility, and tennis.
+> I'm a self-taught data scientist. I enjoy using data and machine learning to solve transportation problems. My focus is on optimizing existing networks and the mobility of the future.
 
 Thanks for visiting. Enjoy it! o/
 
