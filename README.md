@@ -24,6 +24,8 @@
 
 > I'm a self-taught data scientist. I enjoy using data and machine learning to solve transportation problems. My focus is on optimizing existing networks and the mobility of the future.
 
+Want to know more about my skills and projects? [Click here](https://tamagusko.github.io).
+
 Thanks for visiting. Enjoy it! o/
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tamagusko.tamagusko)
