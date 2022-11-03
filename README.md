@@ -17,14 +17,16 @@
   Transportation Specialist & Data Scientist
 </p>
 
-
 <p align='center'>
   Ph.D. Candidate in Transport Systems @ University of Coimbra.
 </p>
 
 > I'm a self-taught data scientist. I enjoy using data and machine learning to solve transportation problems. My focus is on optimizing existing networks and the mobility of the future.
 
-Want to know more about my skills and projects? [Click here](https://tamagusko.github.io).
+  
+
+
+Want to know more about my skills and projects? [Click here](https://tamagusko.github.io) or visit <a href="https://tamagusko.com/" target="_blank">tamagusko.com</a>.
 
 Thanks for visiting. Enjoy it! o/
 
