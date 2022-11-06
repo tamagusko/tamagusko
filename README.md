@@ -29,7 +29,7 @@
   
 
 
-Want to know more about my skills and projects? [Click here](https://tamagusko.github.io) or visit <a href="https://tamagusko.com/" target="_blank">tamagusko.com</a>.
+Want to know more about my skills and projects? [Click here](https://tamagusko.github.io/cv) or visit <a href="https://tamagusko.com/" target="_blank">tamagusko.com</a>.
 
 Thanks for visiting. Enjoy it! o/
 
