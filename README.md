@@ -10,6 +10,9 @@
   <a href="https://medium.com/@tamagusko/">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=_mJ4dr0AAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/scholar-lightgrey?&style=for-the-badge&logo=Google-Scholar&logoColor=white"" />        
+  </a>&nbsp;&nbsp;
     
 </p>
 
@@ -31,6 +34,10 @@ Want to know more about my skills and projects? [Click here](https://tamagusko.g
 Thanks for visiting. Enjoy it! o/
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tamagusko.tamagusko)
+
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=tamagusko&show_icons=true) --> 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamagusko&langs_count=3&hide=html,css,tex) --> 
+
  
 <!-- Badges from: https://github.com/alexandresanlim/Badges4-README.md-Profile --> 
 
