@@ -33,7 +33,7 @@ Want to know more about my skills and projects? [Click here](https://tamagusko.g
 
 Thanks for visiting. Enjoy it! o/
 
-![](https://visitor-badge.glitch.me/badge?page_id=tamagusko.tamagusko)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=tamagusko.tamagusko) --> 
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=tamagusko&show_icons=true) --> 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamagusko&langs_count=3&hide=html,css,tex) --> 
