@@ -21,7 +21,7 @@
 </p>
 
 <p align='center'>
-  Ph.D. Candidate in Transport Systems @ University of Coimbra.
+  Postdoctoral Researcher @ UCD
 </p>
 
 > I'm a self-taught data scientist. I enjoy using data and machine learning to solve transportation problems.
